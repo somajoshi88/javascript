@@ -1,0 +1,13 @@
+!DOCTYPE html>
+<html>
+<body>
+
+<h1> First Heading </h1>
+<p> First paragraph.</p>
+
+</body>
+<script>
+    console.log("this is javascript")
+    alert("warning");
+</script>
+</html>
